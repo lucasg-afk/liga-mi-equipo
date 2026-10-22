@@ -1,0 +1,40 @@
+{
+  "_comentario": "Resultados jugados. Lo actualiza scripts/actualizar.mjs. ga = goles del local, gb = goles del visitante. Un partido postergado lleva {\"post\": true, \"nota\": \"...\"}.",
+  "ultimaFechaCompleta": 13,
+  "actualizado": "2026-10-22",
+  "partidos": {
+    "f11_SAR-RIV": { "ga": 1, "gb": 1 },
+
+    "f12_TIG-BAN": { "ga": 1, "gb": 2 },
+    "f12_GLP-ATU": { "ga": 1, "gb": 1 },
+    "f12_LAN-VEL": { "ga": 2, "gb": 0 },
+    "f12_GM-NOB":  { "ga": 1, "gb": 0 },
+    "f12_UNI-DYJ": { "ga": 0, "gb": 2 },
+    "f12_TAL-IND": { "ga": 0, "gb": 0 },
+    "f12_RAC-BEL": { "ga": 0, "gb": 2 },
+    "f12_ALD-SAR": { "ga": 1, "gb": 3 },
+    "f12_RIV-ERC": { "ga": 1, "gb": 0 },
+    "f12_INS-BOC": { "ga": 2, "gb": 2 },
+    "f12_ROS-IRI": { "ga": 5, "gb": 0 },
+    "f12_PLA-ARG": { "ga": 1, "gb": 1 },
+    "f12_CCO-ELP": { "ga": 2, "gb": 2 },
+    "f12_BAR-HUR": { "ga": 2, "gb": 0 },
+    "f12_SLO-RIE": { "ga": 1, "gb": 0 },
+
+    "f13_PLA-LAN": { "ga": 0, "gb": 1 },
+    "f13_SAR-BAR": { "ga": 1, "gb": 1 },
+    "f13_IRI-TIG": { "ga": 2, "gb": 2 },
+    "f13_BOC-TAL": { "ga": 2, "gb": 1 },
+    "f13_VEL-GM":  { "ga": 1, "gb": 0 },
+    "f13_RIE-UNI": { "ga": 1, "gb": 1 },
+    "f13_ELP-SLO": { "ga": 1, "gb": 2 },
+    "f13_ERC-ALD": { "ga": 2, "gb": 1 },
+    "f13_RAC-IND": { "ga": 1, "gb": 1 },
+    "f13_ATU-ROS": { "ga": 2, "gb": 3 },
+    "f13_HUR-GLP": { "ga": 1, "gb": 2 },
+    "f13_BEL-RIV": { "ga": 0, "gb": 3 },
+    "f13_NOB-CCO": { "ga": 2, "gb": 1 },
+    "f13_BAN-ARG": { "ga": 0, "gb": 1 },
+    "f13_DYJ-INS": { "ga": 0, "gb": 1 }
+  }
+}

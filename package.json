@@ -1,0 +1,13 @@
+{
+  "name": "liga-mi-equipo",
+  "version": "1.0.0",
+  "description": "Tabla, cruces, promedios y chances del Clausura 2026 vistos desde tu equipo.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test test/",
+    "dev": "npx --yes serve . -l 5173",
+    "actualizar": "node scripts/actualizar.mjs"
+  },
+  "license": "MIT"
+}

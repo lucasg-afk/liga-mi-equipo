@@ -1,0 +1,12 @@
+{
+  "name": "Liga Argentina 2026: mi equipo",
+  "short_name": "Mi equipo",
+  "description": "Tabla, cruces, promedios y chances del Clausura 2026 vistos desde tu equipo.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f2f5f7",
+  "theme_color": "#f2f5f7",
+  "lang": "es-AR",
+  "icons": []
+}
