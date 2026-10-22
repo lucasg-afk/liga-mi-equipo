@@ -19,7 +19,7 @@ Actualizá los resultados del Torneo Clausura 2026 de la Liga Profesional argent
 3. Si un partido fue postergado, cargalo como {"id": "...", "post": true, "nota": "<nueva fecha>"}.
 4. Pasá los resultados por el script, que valida contra el fixture:
      echo '<json>' | node scripts/actualizar.mjs
-5. Corré: node --test test/
+5. Corré: node --test
    Si algún test falla, NO hagas commit: dejá el repo como estaba y explicá qué falló.
 6. Si todo pasa y hubo cambios, hacé commit de data/resultados.json con el mensaje
    "Fecha <n>: <cantidad> resultados" y push a main.
